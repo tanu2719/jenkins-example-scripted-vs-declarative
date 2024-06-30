@@ -1,1 +1,1 @@
-# Jenkins
+# jenkins-example-scripted-vs-declarative
