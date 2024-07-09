@@ -1,7 +1,7 @@
 pipleline{
   agent any
   triggers{
-    pollSCM('17 21 09 * * *)
+    pollSCM('18 21 09 * * *)
   }
   stages{
     stage('Testing-Trigger'){
