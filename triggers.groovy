@@ -1,7 +1,7 @@
 pipeline{
     agent any
     triggers{
-    pollSCM('28 21 09 * * ')        
+    pollSCM('30 21 09 * * ')        
     }
     stages{
         stage('test-trigger'){
